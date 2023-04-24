@@ -1,5 +1,2 @@
 __paycache__/
-*.py[cod]
-*Spy.class
-
 *.sqlite3
